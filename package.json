@@ -1,0 +1,26 @@
+{
+  "name": "eslint-config-nelson",
+  "version": "0.0.0",
+  "description": "Eslint configuration module for Nelson",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 0"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/nelson-ai/eslint-config-nelson.git"
+  },
+  "author": "Neslon",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/nelson-ai/eslint-config-nelson/issues"
+  },
+  "homepage": "https://github.com/nelson-ai/eslint-config-nelson#readme",
+  "peerDependencies": {
+    "eslint": "^3.12.2",
+    "eslint-plugin-import": "^2.2.0"
+  },
+  "dependencies": {
+    "eslint-config-airbnb-base": "^11.0.0"
+  }
+}
