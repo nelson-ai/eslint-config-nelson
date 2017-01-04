@@ -1,5 +1,5 @@
 module.exports = {
-  extends: 'airbnb-base',
+  extends: require.resolve('airbnb-base'),
   rules: {
     'arrow-parens': [2, 'as-needed'],
     'brace-style': [2, 'stroustrup', { allowSingleLine: true }],
