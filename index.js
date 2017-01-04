@@ -1,5 +1,5 @@
 module.exports = {
-  extends: require.resolve('airbnb-base'),
+  extends: require.resolve('eslint-config-airbnb-base'),
   rules: {
     'arrow-parens': [2, 'as-needed'],
     'brace-style': [2, 'stroustrup', { allowSingleLine: true }],
