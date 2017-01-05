@@ -17,6 +17,7 @@ module.exports = {
     'guard-for-in': 0,
     'max-len': 0,
     'newline-before-return': 2,
+    'newline-per-chained-call': 0,
     'no-confusing-arrow': 0,
     'no-console': 0,
     'no-mixed-operators': 0,
