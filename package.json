@@ -1,6 +1,6 @@
 {
   "name": "eslint-config-nelson",
-  "version": "0.1.2",
+  "version": "0.1.3",
   "description": "Eslint configuration module for Nelson",
   "main": "index.js",
   "scripts": {
