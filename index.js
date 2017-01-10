@@ -39,6 +39,7 @@ module.exports = {
     'one-var-declaration-per-line': 0,
     'one-var': [2, { uninitialized: 'always', initialized: 'never' }],
     'padded-blocks': 0,
+    'radix': 0,
     'semi': 1,
     'space-in-parens': 1,
     'spaced-comment': 0,

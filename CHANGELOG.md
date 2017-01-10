@@ -1,5 +1,10 @@
 # Changelog
 
+## 0.3.0
+
+**New features:**
+- `radix` set to 0
+
 ## 0.2.0
 
 **New features:**
